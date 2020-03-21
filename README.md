@@ -1,2 +1,3 @@
 # obs-studio-25.0.1-built-win-x64
  contents of obs-studio\build\rundir\Debug\
+Build from March 20th 2020 of the win x64 obs-studio. From start (no repo downloaded, no libraries configured) to finish this took about 1 hour., following the instructions here: https://github.com/obsproject/obs-studio/wiki/Install-Instructions#windows-build-directions . For the qt5.10.1 dependency I used this link here: https://github.com/martinrotter/qt5-minimalistic-builds/releases ... 
